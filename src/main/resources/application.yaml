@@ -1,9 +1,9 @@
 
 spring:
   datasource:
-    username: ${SPRING_DATASOURCE_USERNAME:postgres}
-    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/moneysense}
-    password: ${SPRING_DATASOURCE_PASSWORD:root}
+    username: postgres
+    url: jdbc:postgresql://postgres:03S9EMxd1Pc8gPWDVswy@containers-us-west-74.railway.app:6579/railway
+    password: 03S9EMxd1Pc8gPWDVswy
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
