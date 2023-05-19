@@ -3,7 +3,7 @@ spring:
         url: "jdbc:postgresql://containers-us-west-74.railway.app:6579/railway"
         username: "postgres"
         password: "03S9EMxd1Pc8gPWDVswy"
-#        da
+#        dasad
 #    username: postgres
 #    url: jdbc:postgresql://containers-us-west-74.railway.app:6579/railway
 #    password: 03S9EMxd1Pc8gPWDVswy
