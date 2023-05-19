@@ -2,7 +2,7 @@
 spring:
   datasource:
     username: postgres
-    url: jdbc:postgresql://postgres:03S9EMxd1Pc8gPWDVswy@containers-us-west-74.railway.app:6579/railway
+    url: postgresql://postgres:03S9EMxd1Pc8gPWDVswy@containers-us-west-74.railway.app:6579/railway
     password: 03S9EMxd1Pc8gPWDVswy
     driver-class-name: org.postgresql.Driver
   jpa:
