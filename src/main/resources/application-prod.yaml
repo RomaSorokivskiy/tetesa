@@ -1,7 +1,6 @@
 spring:
   datasource:
-    hikari:
-        jdbc-url: "jdbc:postgresql://containers-us-west-74.railway.app:6579/railway"
+        url: "jdbc:postgresql://containers-us-west-74.railway.app:6579/railway"
         username: "postgres"
         password: "03S9EMxd1Pc8gPWDVswy"
 #        da
